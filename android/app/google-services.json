@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "604999144229",
+    "project_id": "chapapp-22e3d",
+    "storage_bucket": "chapapp-22e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604999144229:android:4ac2e3dd6aa698f02b40cc",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604999144229-03i368dbvnb95uu2lio800g37n85g9q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZQXQzMSJucHrG4csaXV5VPUdnwt7F3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604999144229-03i368dbvnb95uu2lio800g37n85g9q5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604999144229-dqpc4hl187eui318vnu4pll52hv6ju3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
